@@ -24,7 +24,7 @@ import Ecology from "../../pages/home/home2Png/ecology.png";
 import Bugdoy from "../../pages/home/home2Png/Bugdoy.png";
 import Carla from "../../pages/home/home2Png/carla.png";
 import Jacob from "../../pages/home/home2Png/jacob.png";
-import Paula from "../../pages/home/home2Png/Paula.png";
+import Paula from "../../pages/home/home2Png/paula.png";
 import Clara from "../../pages/home/home2Png/Clara.jpg";
 import organicRiceIcon from "../home/home3Png/organicRiceIcon.png";
 import farmIcon from "../home/home3Png/farmIcon.png";
