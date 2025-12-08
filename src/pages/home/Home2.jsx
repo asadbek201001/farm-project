@@ -20,7 +20,7 @@ import List from "../../pages/home/home2Png/List.png";
 import OtOradigan from "../../pages/home/home2Png/OtOradigan.png";
 import Traktor from "../../pages/home/home2Png/Traktor3.png";
 import Milk from "../../pages/home/home2Png/Milk.png";
-import Ecology from "../../pages/home/home2Png/Ecology.png";
+import Ecology from "../../pages/home/home2Png/ecology.png";
 import Bugdoy from "../../pages/home/home2Png/Bugdoy.png";
 import Carla from "../../pages/home/home2Png/Carla.png";
 import Jacob from "../../pages/home/home2Png/Jacob.png";
