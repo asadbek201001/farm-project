@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
-import FarmingImagee from "../../pages/home/home2Png/farmerGirl.png";
+import FarmingImagee from "../../pages/home/home2Png/farmergirl.png";
 import TheFarmer from "../../pages/home/home2Png/farmerOldMan.png";
 import WhatTechnology from "../../pages/home/home3Png/whatTechnology.png";
 import WhichType from "../../pages/home/home3Png/whichType.png";
