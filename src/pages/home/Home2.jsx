@@ -15,7 +15,7 @@ import Dorichi from "../../pages/home/home2Png/Dorichi.jpg";
 import Girl from "../../pages/home/home2Png/2farmer.png";
 import Mans from "../../pages/home/home2Png/Daladagilar.jpg";
 import Agriculture from "../../pages/home/home2Png/AgricultureMat.png";
-import Carrot from "../../pages/home/home2Png/carrot.png";
+import Carrot from "../../pages/home/home2Png/Carrot.png";
 import List from "../../pages/home/home2Png/List.png";
 import OtOradigan from "../../pages/home/home2Png/OtOradigan.png";
 import Traktor from "../../pages/home/home2Png/Traktor3.png";
