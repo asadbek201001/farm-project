@@ -22,7 +22,7 @@ import Traktor from "../../pages/home/home2Png/Traktor3.png";
 import Milk from "../../pages/home/home2Png/Milk.png";
 import Ecology from "../../pages/home/home2Png/ecology.png";
 import Bugdoy from "../../pages/home/home2Png/Bugdoy.png";
-import Carla from "../../pages/home/home2Png/Carla.png";
+import Carla from "../../pages/home/home2Png/carla.png";
 import Jacob from "../../pages/home/home2Png/Jacob.png";
 import Paula from "../../pages/home/home2Png/Paula.png";
 import Clara from "../../pages/home/home2Png/Clara.jpg";
